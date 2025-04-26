@@ -51,4 +51,4 @@ Usuario registrado exitosamente.
 
 ## Autor
 
-- [Tu Nombre] - [Tu perfil GitHub/GitLab]
+- Romario Ramirez
